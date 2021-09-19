@@ -36,4 +36,8 @@ int	main(int argc, char *argv[])
 		i--;
 	}
 	return (0);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 81bcc5c3eeb68c0dbe196399a50f2800d5be53e5
